@@ -1,0 +1,8 @@
+{
+  "name": "react-monorepo-example",
+  "workspace": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
